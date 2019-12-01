@@ -1,6 +1,8 @@
 # CSI4106-Project
 Image Classification Model for matching hand gestures to Emojis, using TensorFlow
 
+![Example Image of App](example.png)
+
 ## Re-trained Models:
 MobileNet V2 (baseline): Included in repository  
 Inception V3: https://drive.google.com/open?id=1_aYyj__bEL5C5hLv0W_ZPGWzD2JpbY_-  
